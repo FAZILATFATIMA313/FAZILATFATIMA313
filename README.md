@@ -100,11 +100,11 @@ Data Structures | Database Systems | Statistics & Probability | Python | Java | 
 🔗 [View Certificate](PASTE_LINK_HERE)
 
 - ### 🎓 GEN-AI & Agentic AI (ExcelR)
-- 🔗 [View Certificate](PASTE_LINK_HERE)
-- 
+🔗 [View Certificate](PASTE_LINK_HERE)
+  
 - ### 🎓 Advanced Excel & Power BI (ExcelR)
-- 🔗 [View Certificate](PASTE_LINK_HERE)
-- 
+🔗 [View Certificate](PASTE_LINK_HERE)
+  
 - ### 🎓 Python Programming (Sololearn)
 🔗 [View Certificate](PASTE_LINK_HERE)
 
