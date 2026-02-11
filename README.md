@@ -74,12 +74,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAZILATFATIMA313&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fazilatfatima313&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAZILATFATIMA313&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAZILATFATIMA313&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fazilatfatima313&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -99,9 +99,14 @@ Data Structures | Database Systems | Statistics & Probability | Python | Java | 
 - ### 🎓 Machine Learning & Statistics for Data Science – MITx
 🔗 [View Certificate](PASTE_LINK_HERE)
 
-- GEN-AI & Agentic AI (ExcelR)  
-- Advanced Excel & Power BI (ExcelR)  
-- Python Programming (Sololearn)  
+- ### 🎓 GEN-AI & Agentic AI (ExcelR)
+- 🔗 [View Certificate](PASTE_LINK_HERE)
+- 
+- ### 🎓 Advanced Excel & Power BI (ExcelR)
+- 🔗 [View Certificate](PASTE_LINK_HERE)
+- 
+- ### 🎓 Python Programming (Sololearn)
+🔗 [View Certificate](PASTE_LINK_HERE)
 
 Membership: Students for the Data Science (S4DS) Community  
 
@@ -110,6 +115,7 @@ Membership: Students for the Data Science (S4DS) Community
 # 🏆 Achievements
 
 🥇 First Place – SIH 2025 Internal Hackathon  
+ 🔗 [View Certificate](PASTE_LINK_HERE)
 
 ---
 ## 🌐 Connect With Me
