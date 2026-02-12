@@ -95,18 +95,15 @@ Data Structures | Database Systems | Statistics & Probability | Python | Java | 
 ---
 
 # 📜 Certifications
+🔗 [View Certificate](https://drive.google.com/file/d/1UeQJ7_jSQcktOauTGY9BnJQNtBTQMNQw/view?usp=drive_link)
 
 - ### 🎓 Machine Learning & Statistics for Data Science – MITx
-🔗 [View Certificate](PASTE_LINK_HERE)
 
 - ### 🎓 GEN-AI & Agentic AI (ExcelR)
-🔗 [View Certificate](PASTE_LINK_HERE)
   
 - ### 🎓 Advanced Excel & Power BI (ExcelR)
-🔗 [View Certificate](PASTE_LINK_HERE)
   
 - ### 🎓 Python Programming (Sololearn)
-🔗 [View Certificate](PASTE_LINK_HERE)
 
 Membership: Students for the Data Science (S4DS) Community  
 
@@ -115,7 +112,7 @@ Membership: Students for the Data Science (S4DS) Community
 # 🏆 Achievements
 
 🥇 First Place – SIH 2025 Internal Hackathon  
- 🔗 [View Certificate](PASTE_LINK_HERE)
+ 🔗 [View Certificate](https://drive.google.com/file/d/1UeQJ7_jSQcktOauTGY9BnJQNtBTQMNQw/view?usp=drive_link)
 
 ---
 ## 🌐 Connect With Me
